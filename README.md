@@ -68,17 +68,15 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 ## Requirements
 
-**This is NOT a beginners course. You will not learn Java testing fundamentals here. However, you will learn a number 
-of amazing skills, techniques, and tools to help you test web applications**
-
-- At least 1 year of Java programming
-- Deep understanding of Selenium WebDriver
-- Deep understanding of OOP
+- Java programming experience
+- Understanding of Selenium WebDriver
+- Understanding of OOP
 - Java 8 installed
 - Java IDE installed
-- [Git](https://git-scm.com/downloads)
+- [Git installed](https://git-scm.com/downloads)
+- [Github account](https://github.com/s)
 - [Maven installed](https://maven.apache.org/install.html)
-- Free [Sauce account](https://www.saucelabs.com/sign-up)
+- Sauce Labs account. If you need one, [get it free](https://www.saucelabs.com/sign-up)
 
 ## Your Instructor: Nikolay Advolodkin
 
@@ -160,6 +158,8 @@ mvn test -Dtest=E2ETests -X
 ---
 
 ### Local environment setup
+
+ℹ️ Only recommended for those that know how to correctly setup a Java + Maven environment
 
 Fork then clone the repo
 
