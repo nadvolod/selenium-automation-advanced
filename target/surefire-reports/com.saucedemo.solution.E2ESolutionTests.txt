@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.saucedemo.solution.E2ESolutionTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.33 s - in com.saucedemo.solution.E2ESolutionTests

@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: com.saucedemo.exercises.E2ETests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 17.481 s <<< FAILURE! - in com.saucedemo.exercises.E2ETests
+com.saucedemo.exercises.E2ETests.loginWorks  Time elapsed: 16.747 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for visibility of element located by By.id: inventory_container (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'nadvolod-seleniumautoma-o57qko3acg1', ip: '127.0.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-43-generic', java.version: '11.0.16'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.81, chrome: {chromedriverVersion: 104.0.5112.29 (eff877e18f76..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50339}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a6663d6c8d941faa517dbb0b1860c8e
+	at com.saucedemo.exercises.E2ETests.loginWorks(E2ETests.java:39)
+
+com.saucedemo.exercises.E2ETests.userCanCheckoutAtomic  Time elapsed: 14.779 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for visibility of element located by By.cssSelector: #back-to-products (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'nadvolod-seleniumautoma-o57qko3acg1', ip: '127.0.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-43-generic', java.version: '11.0.16'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.81, chrome: {chromedriverVersion: 104.0.5112.29 (eff877e18f76..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49743}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7cce7066142e4e9dbc79f4b6a87ff0c6
+	at com.saucedemo.exercises.E2ETests.userCanCheckoutAtomic(E2ETests.java:93)
+
+com.saucedemo.exercises.E2ETests.userCanCheckout  Time elapsed: 17.48 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for visibility of element located by By.cssSelector: #back-to-products (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'nadvolod-seleniumautoma-o57qko3acg1', ip: '127.0.0.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-43-generic', java.version: '11.0.16'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.81, chrome: {chromedriverVersion: 104.0.5112.29 (eff877e18f76..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50376}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ba94f7739a74d32bf1aeae99d889aeb
+	at com.saucedemo.exercises.E2ETests.userCanCheckout(E2ETests.java:53)
+

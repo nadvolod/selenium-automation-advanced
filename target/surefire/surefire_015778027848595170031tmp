@@ -1,0 +1,6 @@
+#surefire_0
+#Wed Aug 10 13:54:23 UTC 2022
+basedir=/workspace/selenium-automation-advanced
+test=E2ETests
+user.dir=/workspace/selenium-automation-advanced
+localRepository=/workspace/m2-repository

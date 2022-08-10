@@ -1,0 +1,9 @@
+com/saucedemo/solution/pages/CheckoutOverviewPage.class
+com/saucedemo/exercises/E2ETests.class
+com/saucedemo/solution/pages/ShoppingCartPage.class
+com/saucedemo/solution/pages/ProductsPage.class
+com/saucedemo/solution/E2ESolutionTests.class
+com/saucedemo/solution/pages/AbstractBasePage.class
+com/saucedemo/solution/pages/CheckoutStepOnePage.class
+com/saucedemo/solution/pages/CheckoutCompletePage.class
+com/saucedemo/solution/pages/LoginPage.class
