@@ -60,11 +60,11 @@ We will focus on a holistic approach of risk mitigation by doing:
   - [Gitpod setup](#gitpod-setup)
   - [Local setup](#local-environment-setup)
   - [Setting data center](#setting-data-center)
-- [E2E browser tests](./workshop/docs/E2E-TESTS.MD)
-- [Atomic tests](./workshop/docs/ATOMIC-TESTS.MD)
-- [Accessibility tests](./workshop/docs/ACCESSIBILITY-TESTS.MD)
-- [Parallelization](./workshop/docs/PARALLEL.MD)
-- [Conclusions](./workshop/docs/CONCLUSIONS.MD)
+- [E2E browser tests](./docs/E2E-TESTS.MD)
+- [Atomic tests](./docs/ATOMIC-TESTS.MD)
+- [Accessibility tests](./docs/ACCESSIBILITY-TESTS.MD)
+- [Parallelization](./docs/PARALLEL.MD)
+- [Conclusions](./docs/CONCLUSIONS.MD)
 
 ## Requirements
 
