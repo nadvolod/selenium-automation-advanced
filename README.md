@@ -144,7 +144,7 @@ mvn test -Dtest="E2ESolutionTests#appRenders" -X
 
         Results :
 
-        Tests run: 4, Failures: 0, Errors: 0, Skipped: 3
+        Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 
         [INFO] ------------------------------------------
         [INFO] BUILD SUCCESS
@@ -154,6 +154,8 @@ mvn test -Dtest="E2ESolutionTests#appRenders" -X
         [INFO] ------------------------------------------
 
   </details>
+
+### ✅ 👏 Environment setup is complete if tests passed
 
 ---
 
