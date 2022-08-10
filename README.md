@@ -134,7 +134,7 @@ echo $SAUCE_ACCESS_KEY
 Run sanity tests
 
 ```bash
-mvn test -Dtest=E2ETests -X
+mvn test -Dtest="E2ESolutionTests#appRenders" -X
 ```
 
   <details>
