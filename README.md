@@ -108,7 +108,7 @@ of amazing skills, techniques, and tools to help you test web applications**
 
 ### Gitpod setup
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/c3ccl3ston/automation-best-practices-java)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/nadvolod/selenium-automation-advanced)
 
 > ℹ️ Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't 
 > know how to set up a local Java environment.
