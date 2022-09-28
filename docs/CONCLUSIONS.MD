@@ -1,6 +1,8 @@
 # WAIT!!! Before You Go!
 
-1. Prizes Giveaway
+1. Please answer this [quick survey](https://docs.google.com/forms/d/e/1FAIpQLSfzgN1aqMfP1U0r4Sl8rzkKMaUTv9OpTJtnIW9tHs-uD3ZMNg/viewform?usp=sf_link)
+2. Want more awesome training? Join [Testing for Good Oct 18-20](https://hopin.com/events/testing-for-good-workshops/registration)
+3. Prizes Giveaway 😁
 
 ## Thanks so much for your time 🙌 👏
 
