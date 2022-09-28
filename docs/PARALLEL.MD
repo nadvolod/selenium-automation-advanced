@@ -94,6 +94,8 @@ My results
 
 ## Extra resources
 
-[Achieving 97% test suite run time improvement](https://devops.com/4-steps-to-achieve-a-66-reduction-in-test-run-time/)
+- [Achieving parallelization in test automation tutorial](https://youtube.com/playlist?list=PLSRQwlkmpdj74uyS-8Hgn1F9bVrnixtgT)
+- [Achieving 97% test suite run time improvement](https://devops.com/4-steps-to-achieve-a-66-reduction-in-test-run-time/)
+- [Java Testing Tips Weekly](https://ultimateqa.ck.page/selenium-java-tips)
 
 ## [⏭️ Let's summarize](CONCLUSIONS.MD)
